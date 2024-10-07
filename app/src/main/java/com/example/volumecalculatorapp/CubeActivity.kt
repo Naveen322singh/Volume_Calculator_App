@@ -25,6 +25,5 @@ class CubeActivity : AppCompatActivity() {
             var volume=r*r*r
             result.text="V = $volume m^3"
         }
-
     }
 }
